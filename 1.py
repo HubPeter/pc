@@ -15,5 +15,5 @@ def trans(string):
 
 print trans(url)
 
-print trans(hint)
+#print trans(hint)
 
